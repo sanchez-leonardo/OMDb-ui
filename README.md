@@ -1,10 +1,12 @@
-# Nuxt 3 Minimal Starter
+# OMDb UI Project
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+App build arround [OMDb API](https://www.omdbapi.com/) using Vue 3/Nuxt 3 for evaluative purposes.
+
+# Nuxt 3
 
 ## Setup
 
-Make sure to install the dependencies:
+Install dependencies:
 
 ```bash
 # yarn

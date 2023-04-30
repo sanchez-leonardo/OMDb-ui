@@ -4,6 +4,7 @@ node_modules
 .nitro
 .cache
 .output
-.env
+# For public sharing purposes, .env will be shared
+# .env
 dist
 .DS_Store
